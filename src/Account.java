@@ -78,7 +78,7 @@ class Account
         do
             {
             System.out.println("1.Open a A/c");
-            System.out.println("2.Deposite amt ");
+            System.out.println("2.Deposit amt ");
             System.out.println("3.Withdraw amt");
             System.out.println("4.Balance Enquiry");
             System.out.println("5. Exit");
